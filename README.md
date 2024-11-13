@@ -2,4 +2,5 @@
 
 ## Modelo relacional. Vistas y disparadores
 
-informe completo en informe.pdf
+Enrique Hernández Cabrera
+Airam Herrera Plasencia
